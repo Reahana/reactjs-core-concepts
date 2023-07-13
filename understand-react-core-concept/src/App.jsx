@@ -10,8 +10,8 @@ function App() {
   return (
     <div className='App'>
       <Knob steps="456"></Knob>
-      <Device name="uphone"></Device>
-      <Device></Device>
+      <Device name="uphone" price="13000"></Device>
+      <Device name="Samsing" price="11000"></Device>
       <Watch ></Watch>
    
     </div>

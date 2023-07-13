@@ -3,7 +3,7 @@ import React from 'react';
 const DeviceDetails = (props) => {
     return (
         <div>
-            <h2>Hello Device {props.info}</h2>
+            <h2>Hello Device {props.price}</h2>
         </div>
     );
 };
